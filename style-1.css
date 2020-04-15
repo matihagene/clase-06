@@ -1,8 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
-        html,
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: 'Patua One', cursive;
-        }
-canvas { display: block;}
